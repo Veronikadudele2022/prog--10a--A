@@ -1,0 +1,1 @@
+Mans pirmaja git projekts
